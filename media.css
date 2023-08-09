@@ -1,0 +1,105 @@
+@media (max-width: 575.98px) {
+    h1{
+        background-color: mediumorchid;
+        font-size: 30px;
+        font-weight: 400;
+    }
+    p{
+        font-size: 35px;
+    }
+    h2{
+        color: pink;
+        font-size: 30px;
+        font-weight: 400;
+    }
+
+    .limee{
+        display: none;
+    }
+    /* .redd{
+        display: none;
+    } */
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+    h1{
+        background-color: yellow;
+        color: black;
+    }
+    p{
+         background-color: brown; 
+         color: yellowgreen; 
+    }
+    h2{
+        color: green;
+        font-size: 30px;
+        font-weight: 400;
+    }
+    /* .redd{
+        display: none;
+    } */
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+    h1{
+        background-color: black;
+        color: white;
+    }
+    p{
+         background-color: red; 
+         color: aqua; 
+    }
+    h2{
+        color: red;
+        font-size: 30px;
+        font-weight: 400;
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    h1{
+        background-color: peru;
+        color: blue;
+    }
+    p{
+         background-color: turquoise; 
+         color: cornflowerblue; 
+    }
+    h2{
+        color: mediumblue;
+        font-size: 30px;
+        font-weight: 400;
+    }
+}
+
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+    h1{
+        background-color: transparent;
+        color: black;
+    }
+    p{
+         background-color: transparent;
+         color: chocolate; 
+    }
+    h2{
+        color: silver;
+        font-size: 30px;
+        font-weight: 400;
+    }
+}
+
+@media (min-width: 1400px) {
+    h1{
+        background-color: goldenrod;
+        color: royalblue;
+    }
+    p{
+         background-color: maroon;
+         color: indianred;
+    }
+    h2{
+        color: darkcyan;
+        font-size: 30px;
+        font-weight: 400;
+    }
+}
